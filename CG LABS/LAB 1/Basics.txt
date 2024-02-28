@@ -1,0 +1,5 @@
+Getting number of scalines and pixels in a specific display
+1. getmaxx(): To get no. of scan lines  // x is horizontal line
+2. getmaxy(): To get no. of pixels in a scan lines
+
+https://www.programmingsiplified.com/c/graphics.h
